@@ -40,6 +40,20 @@ greet(); // hello
 
 
 
+function good(){
+   let rate = 55;
+    console.log('fair price');
+    
+}
+console.log(rate);
+good()
+
+
+// Prefer not to use var beccause of issue in block and function scope
+
+
+
+
 
 
 
