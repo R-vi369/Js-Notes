@@ -33,6 +33,20 @@ lang.shift();
 
 
 
+ const junks = ['pizza', 'burger', 'pasta']
+ const healthy = ['chicken', 'soya-chaap']
+  
+  // spread op
+ const merge =  [...junks, ...healthy]
+ console.log(merge);
+
+ 
+const merge2 = junks + healthy
+console.log(merge2);
+
+
+
+
 
 
 
