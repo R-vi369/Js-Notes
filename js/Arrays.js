@@ -29,6 +29,10 @@ lang.shift();
 
 
 
+// we can pass objects in array
+
+
+
 
 
 
