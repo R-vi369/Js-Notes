@@ -53,6 +53,9 @@
 
 // type conversion
 
+
+// typeof - show the type of the data
+
 // let score = "10"
 // console.log(typeof(score));
 // let valueInNumber = Number(score)
